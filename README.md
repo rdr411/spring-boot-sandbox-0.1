@@ -54,5 +54,6 @@ http://localhost:5000/
 
 Note the .env file provides the environment variables when running Heroku locally.
 
+Code Ship
 https://codeship.com/projects/YOUR_PROJECT_UUID/status?branch=master
 
